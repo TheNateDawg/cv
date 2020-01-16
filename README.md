@@ -1,6 +1,6 @@
 # CV
 
-This is the second website I created--the files for my first website were replaced with this project's files, since the first website's files were basic HTML, with that website having a 1990s-style design that I didn't want to keep.
+This is the 2nd website I created--the files for my 1st website were replaced with this project's files, since the 1st website's files were basic HTML, with that website having a 1990s-style design that I didn't want to keep.
 
 ## Getting Started
 
