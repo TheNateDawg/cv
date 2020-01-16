@@ -22,5 +22,5 @@ This is the second website I created--the files for my first website were replac
 
 ## Acknowledgments
 Thanks to:
-* Angela Yu (author of "The Complete 2020 Web Development Bootcamp" on Udemy)
+* [Angela Yu](https://github.com/angelabauer) (author of ["The Complete 2020 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy)
   * This is the second project from her course.
