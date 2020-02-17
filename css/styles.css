@@ -1,3 +1,84 @@
+/***** Universal *****/
+
+/***** Document *****/
+
+/***** Meta Deta *****/
+
+/***** Sectioning and Structuring *****/
+body {
+  font-family: "Merriweather", serif;
+
+  margin: 0;
+
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+p {
+  line-height: 2;
+
+  overflow: auto;
+
+  margin: 0 auto;
+}
+
+/***** Headings *****/
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  font-weight: bold;
+
+  margin: 50px auto 0 auto;
+
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+
+  margin: 0 auto;
+
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+
+  color: #11999e;
+}
+
+/***** Lists *****/
+
+/***** Media *****/
+img {
+  vertical-align: bottom;
+}
+
+/***** Forms *****/
+
+/***** Tables *****/
+
+/***** Phrasing *****/
+
+/***** Misc. *****/
+hr {
+  width: 5%;
+  margin: 100px auto;
+
+  border-width: 10px;
+  border-style: none;
+  border-color: #eaf6f6;
+  border-top-style: dotted;
+}
+
+/***** IDs, Classes, (@media) *****/
 .barbell-squatting-img {
   float: right;
 
@@ -30,7 +111,7 @@
 }
 
 .btn {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-size: 20px;
   font-weight: bold;
 
@@ -38,7 +119,7 @@
 
   text-decoration: none;
 
-  color: #fff !important;
+  color: #ffffff !important;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
@@ -52,7 +133,7 @@
 }
 
 .btn:hover {
-  color: #fff !important;
+  color: #ffffff !important;
   background: #468ccf;
   background: linear-gradient(top,  #30e3cb,  #2bc4ad);
   background: -ms-linear-gradient(top,  #30e3cb,  #2bc4ad);
@@ -73,7 +154,7 @@
 }
 
 .footer-link {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 
   color: #11999e;
 }
@@ -126,66 +207,4 @@
 .web-dev-skill-row {
   margin: 0;
   padding-bottom: 100px;
-}
-
-body {
-  font-family: 'Merriweather', serif;
-
-  margin: 0;
-
-  text-align: center;
-}
-
-div {
-  display: block;
-}
-
-h1 {
-  font-family: 'Sacramento', cursive;
-  font-size: 5.625rem;
-  font-weight: bold;
-
-  margin: 50px auto 0 auto;
-
-  color: #66bfbf;
-}
-
-h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
-  font-weight: normal;
-  line-height: 2;
-
-  margin: 0 auto;
-
-  color: #66bfbf;
-}
-
-h3 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
-
-  color: #11999e;
-}
-
-hr {
-  width: 5%;
-  margin: 100px auto;
-
-  border-width: 10px;
-  border-style: none;
-  border-color: #eaf6f6;
-  border-top-style: dotted;
-}
-
-img {
-  vertical-align: bottom;
-}
-
-p {
-  line-height: 2;
-
-  overflow: auto;
-
-  margin: 0 auto;
 }
